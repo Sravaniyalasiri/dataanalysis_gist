@@ -1,0 +1,123 @@
+    1  pwd
+    2  ls
+    3  touch
+    4  touch demo.txt
+    5  ls
+    6  touch file{1..10}.txt
+    7  ls
+    8  cd d:
+    9  pwd
+   10  cd c:
+   11  mkdir myfolder
+   12  cd  C:\Users\dell\Desktop\GIST-VENNELA
+   13  pwd
+   14  echo"hello"
+   15  echo "hello">>hello.txt
+   16  echo "hello"
+   17  cat hello>>hello.txt
+   18  cat "hello">>hello.txt
+   19  pwd
+   20  mkdir workshop
+   21  touch profile.txt
+   22  pwd
+   23  cd workshop
+   24  touch profile.txt
+   25  ls
+   26  vi profile.txt
+   27  vi
+   28  mkdir GIST-vennela
+   29  cd GIST-vennela
+   30  touch detials.txt
+   31  ls
+   32  git init
+   33  git clone 'https://github.com/172u1a0559/gist_59.git'
+   34  ls
+   35  git clone ''
+   36  git clone 'https://github.com/172u1a0559/gist_59.git'
+   37  git clone 'https://github.com/172u1a0559/gist_59.git'
+   38  git init
+   39  git clone ''
+   40  git clone 'https://github.com/172u1a0559cse/gist_559.git'
+   41  ls
+   42  cd gist_559
+   43  ls
+   44  vi README.md
+   45  git config --global user.name '172u1a0559cse'
+   46   git config --global user.email 'vennellaparuchuri@gmail.com'
+   47  git status -s
+   48  touch example.py
+   49  git status -s
+   50  git add
+   51  git add .
+   52  git status -s
+   53  git commit -m 'write markdown statements'
+   54  git log
+   55  git remote add origin 'https://github.com/172u1a0559cse/gist_559.git'
+   56  git push origin main
+   57  git init
+   58  git clone 'https://github.com/172u1a0559cse/gist_559.git'
+   59  git push origin master
+   60  git clone 'https://github.com/172u1a0559cse/gist_559.git'
+   61  ls
+   62  cd gist_559
+   63  ls
+   64  vi README.md
+   65  git config --global use.name '172u1a0559cse'
+   66  git config --global user.name '172u1a0559cse'
+   67  git config --global user.email 'vennellaparuchuri@gmail.com'
+   68  git status -s
+   69  touch example.py 
+   70  git status -s
+   71  touch example.py
+   72  git status -s
+   73  git add .
+   74  git status -s
+   75  git commit -m 'write markdown statements'
+   76  git log
+   77  git add remote origin 'https://github.com/172u1a0559cse/gist_559.git'
+   78  git push origin main
+   79  git push origin main
+   80  mkdir gist_559
+   81  ls
+   82  pwd
+   83  ls
+   84  pwd
+   85  ls
+   86  rmdir gist
+   87  rm demo.txt
+   88  ls
+   89  rm file{1..10}.txt
+   90  ls
+   91  rm file{50..100}.txt
+   92  ls
+   93  rm clanguage{50..100}.100
+   94  rm * .txt
+   95  ls
+   96  rm*.txt
+   97  ls
+   98  rm *.py
+   99  rm *.cpp
+  100  ls
+  101  rm *.txt
+  102  rm *.PY
+  103  nano myfile.txt
+  104  cat my 
+  105  cat myfile.txt
+  106  nano myfile.txt
+  107  cat myfile,txt
+  108  cat myfile.txt
+  109  echo "hello ">>myfile2.txt
+  110  cat myfile2.txt
+  111  echo {1..100} >> myfile3.txt
+  112  cat myflie3.txt
+  113  cat myfile3.txt
+  114  mv myfile3.txt myfile2.txt
+  115  ls
+  116  cp myfile2.txt myfile.txt
+  117  cat myfile.txt
+  118  cat myfile2.txt
+  119  cat myfile.txt
+  120  ls
+  121  history
+  122  histroy >>histroy.txt
+  123  history >> history.txt
